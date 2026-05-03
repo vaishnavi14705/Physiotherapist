@@ -1,42 +1,42 @@
-🏥 Physiotherapist Website
-
-A modern, responsive physiotherapy website developed for a client (Dr. Shruti) to showcase services, build trust, and enable easy communication with patients.
-
-📌 Project Overview
-
-This project is a professionally designed website created as part of client work. The goal was to deliver a clean, aesthetic, and user-friendly interface that reflects healthcare professionalism while remaining approachable.
-
-The website highlights:
-
-Physiotherapy services
-Patient-focused care
-Home visit options
-Easy contact and consultation access
-🚀 Features
-💻 Fully responsive design (mobile + desktop)
-🎨 Clean and modern UI/UX
-🖼️ High-quality image integration
-📍 Service and treatment sections
-📞 Contact section for client reach-out
-🛠️ Tech Stack
-HTML5
-CSS3
-Basic JavaScript
-GitHub Pages (for deployment)
-🌐 Live Website
-
+# **PHYSIOTHERAPY WEBSITE**-
 🔗 https://vaishnavi14705.github.io/Physiotherapist/
 
-👩‍💻 My Role
-Designed complete UI layout
-Developed frontend structure
-Integrated images and sections
-Optimized for responsiveness
-Deployed using GitHub Pages
-🎯 Objective
+### 🌿 About This Project
 
-To create a professional digital presence for a physiotherapist that builds credibility, improves visibility, and enhances patient engagement.
+This is a modern and responsive physiotherapy website created for my client **Dr. Shruti**.  
+The focus of this project was to design a clean, professional, and user-friendly interface that builds trust and makes it easy for patients to explore services.  
+The layout is structured to ensure clarity, smooth navigation, and a visually calming experience.  
+Every section is designed with attention to usability and real-world client needs.
 
-📸 Preview
 
-(Add screenshots of your website here)
+### ✨ Features
+
+• 📱 Fully responsive design (mobile and desktop)  
+• 🎨 Clean and minimal user interface  
+• 🧭 Smooth and simple navigation  
+• 🩺 Well-structured service sections  
+• 📞 Easy contact and consultation access  
+
+
+### 🛠️ Tech Stack
+
+HTML5  
+CSS3  
+JavaScript  
+GitHub Pages  
+
+
+### 👩‍💻 My Work
+
+• 🎯 Designed complete layout and structure  
+• 💻 Developed full frontend  
+• 🖼️ Integrated images and content  
+• 📐 Ensured responsiveness  
+• 🚀 Deployed the website  
+
+
+### 🎯 Objective
+
+To create a strong digital presence that reflects professionalism, builds credibility, and helps patients connect easily.
+
+
